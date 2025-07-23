@@ -1,0 +1,21 @@
+{
+  "name": "@network-monitoring/shared-types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript types for Network Monitoring Application",
+  "main": "index.ts",
+  "types": "index.ts",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "5.0.4"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "shared",
+    "network-monitoring"
+  ]
+} 
